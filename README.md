@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=nanchen737491213)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=nanchen737491213)
 
