@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=nanchen737491213)
 
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
-<img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nanchen737491213&left_color=green&right_color=red)
+
 
 
 
