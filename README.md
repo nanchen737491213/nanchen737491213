@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanchen737491213)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=nanchen737491213)
+
+
 
